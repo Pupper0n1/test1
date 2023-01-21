@@ -1,2 +1,3 @@
 # This is a menu program
-wdawZZ
+
+This is for learning git
